@@ -1,3 +1,10 @@
+#I develop a series of decision trees using the scikit-learn package. I analyze data from Kaggle.com.
+#The dataset lists several variables related to health. The label variable identifies whether each
+#person developed diabetes
+
+#Kaggle link:
+#https://www.kaggle.com/datasets/uciml/pima-indians-diabetes-database?resource=download
+
 #--------------------Install Libraries
 #pip install scikit-learn
 #pip install graphviz
